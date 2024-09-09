@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Second Brain | Hugo Academic CV Theme</title>
+    <link>https://example.com/ru/tags/second-brain/</link>
+      <atom:link href="https://example.com/ru/tags/second-brain/index.xml" rel="self" type="application/rss+xml" />
+    <description>Second Brain</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <title>Second Brain</title>
+      <link>https://example.com/ru/tags/second-brain/</link>
+    </image>
+    
+    <item>
+      <title>🧠 Как прокачать мозг за 1 день до уровня магистра</title>
+      <link>https://example.com/ru/post/second-brain/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/second-brain/</guid>
+      <description>&lt;p&gt;Во первых, никак. Но, вы можете поспособствовать такому будущему уделяя больше внимания сну и питанию. Это значительно увеличивает вашу производительность. Надеюсб, что у вас все получится&lt;/p&gt;
+&lt;h2 id=&#34;вам-нравятся-мои-посты-или-я-дрейк-плис-коллаб&#34;&gt;Вам нравятся мои посты или я? Дрейк плис коллаб🙌&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
